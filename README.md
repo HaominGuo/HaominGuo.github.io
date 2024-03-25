@@ -25,13 +25,26 @@ Please contact me through email guohaomin888@163.com.
 
 * GST: A framework to automatically generate SysML diagrams from text based on deep learning (submitted, manuscript is [here](./README.assets/manuscript.pdf))
 
-  Specifically, I built a framework, based on deep learning, to generate SysML diagrams automatically from unstructured natural language text without any involvement of user in the progress, which is the first attempt to apply deep learning to SysML diagrams generation. Our method can achieve a high degree of automation and the result can be import to the mainstream modeling software, allowing for subsequent modifications and additional modeling tasks.s
+  Specifically, I built a framework, based on deep learning, to generate SysML diagrams automatically from unstructured natural language text without any involvement of user in the progress, which is the first attempt to apply deep learning to SysML diagrams generation. Our method can achieve a high degree of automation and the result can be import to the mainstream modeling software, allowing for subsequent modifications and additional modeling tasks.
 
   ![GST](./README.assets/GST_result.png)
 
 ## PROJECT
 
+**Monte Carlo Ray Tracing Renderer**
 
+Developed based on C++, using Monte Carlo Integration to implement Ray Tracing Rendering.
+
+* Utilizes Axis-Aligned Bounding Box (AABB) and Bounding Volume Hierarchy (BVH) to accelerate intersection calculations.
+* Utilizes local illumination models: Phong, Blinn-Phong, Microsurface.
+* Makes use of Multiple Importance Sampling (MIS) to enhance robustness.
 
 ## ADDITIONAL SKILLS & INTERESTS
 
+**CS, ML and DL**
+
+I took additional machine learning and deep learning courses beyond the required curriculum, including Statistical Learning Methods, Dive into Deep Learning, Natural Language Processing with Deep Learning and Deep Learning for Computer Vision. Furthermore, I acquired proficiency in using PyTorch framework and get expertise in commonly used programming languages such as C++ and python.
+
+**Cycle sport**
+
+During my college years, I ride my road bicycle almost everyday to practice and relax.
