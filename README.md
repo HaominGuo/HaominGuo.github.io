@@ -41,6 +41,8 @@ Please contact me through email guohaomin888@163.com.
 
 **Monte Carlo Ray Tracing Renderer**
 
+https://github.com/HaominGuo/Monte_Carlo_Ray_Tracing.git
+
 Developed based on C++, using Monte Carlo Integration to implement Ray Tracing Rendering.
 
 * Utilizes Axis-Aligned Bounding Box (AABB) and Bounding Volume Hierarchy (BVH) to accelerate intersection calculations.
