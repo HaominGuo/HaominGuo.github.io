@@ -31,7 +31,7 @@ Please contact me through email guohaomin888@163.com.
 
 **[State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html), Zhejiang University, Hangzhou, China <span style="float:right">2022.09-present</span>**
 
-* GST: A framework to automatically generate SysML diagrams from text based on deep learning (submitted, manuscript is [here](./README.assets/manuscript.pdf))
+* GST: A framework to automatically generate SysML diagrams from text based on deep learning (submitted, manuscript is [here](./README.assets/manuscript.pdf), code is [here](https://github.com/HaominGuo/GST.git))
 
   Specifically, I built a framework, based on deep learning, to generate [Systems modeling language](https://en.wikipedia.org/wiki/Systems_modeling_language)(SysML) diagrams automatically from unstructured natural language text without any involvement of user in the progress, which is the first attempt to apply deep learning to SysML diagrams generation. Our method can achieve a high degree of automation and the result can be import to the mainstream modeling software, allowing for subsequent modifications and additional modeling tasks.
 
