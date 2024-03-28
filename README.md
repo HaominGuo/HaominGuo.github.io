@@ -6,7 +6,7 @@ My recent research is about Model-Based Systems Engineering ([MBSE](https://en.w
 
 My interests lie in Computer Vision, Computer Graphics, Natural Language Processing. And I have learned related courses and required relevant skills. 
 
-I'm looking for summer research or autumn even later research program in order to apply for a Ph.D. in Computer Science in the fall of 2025. Since I have finished my required curriculum and met the requirements of graduation, I have enough time to continuously engage in research that interests me from now on. 
+I'm looking for summer research or autumn even later research program in order to apply for a Ph.D. in Computer Science in the fall of 2025. Since I have finished my required curriculum and met the requirements of graduation, I have enough time to continuously engage in research that interests me from now on, which might be my future research field. 
 
 I would like to collaborate with you if you have any intriguing ideas. Let's create and do something interesting.<br>
 
