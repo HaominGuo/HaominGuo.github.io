@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-for my full CV, see [here](../files/CV_1.pdf)
+for my full CV, see [here](../files/CV.pdf)
 
 Education
 ======
