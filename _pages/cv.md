@@ -9,56 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+for my full CV, see [here](../files/CV.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Postgraduate in Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/english/). Supervisor: [Prof.Yusheng LIU](http://www.cad.zju.edu.cn/home/ysliu/)
+* Bachelor in Engineering Management, [Tianjin University](https://www.tju.edu.cn/english/index.htm), 2022.
 
-Work experience
+Honors
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Third Prize of National Mathematics Competition, 2021.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* National Encouragement Scholarship, 2019, 2021.
   
-Talks
+* Third Prize of  the 10th “Jingjing Le Dao” Economic Hotspot Analysis Competition, 2020.
+Miscellaneous
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* I'm fascinated with road cycling and ride my road bicycle almost everyday for exercise and relax
+* I'm also enthusiastic about music and instruments and play a little guitar.
