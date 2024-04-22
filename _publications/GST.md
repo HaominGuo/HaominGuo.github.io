@@ -1,7 +1,7 @@
 ---
 title: "GST: A framework to automatically generate SysML diagrams from text based on deep learning"
 collection: publications
-permalink: /publication/GST.md
+permalink: /_publications/GST.md
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024
 venue: 'ASME 2024 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference(IDETC-CIE)'
