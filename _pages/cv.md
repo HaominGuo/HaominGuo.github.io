@@ -21,9 +21,7 @@ Education
 Honors
 ======
 * Third Prize of National Mathematics Competition, 2021.
-  
 * National Encouragement Scholarship, 2019, 2021.
-  
 * Third Prize of  the 10th “Jingjing Le Dao” Economic Hotspot Analysis Competition, 2020.
 Miscellaneous
 ======
