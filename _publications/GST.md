@@ -2,10 +2,9 @@
 title: "GST: A framework to automatically generate SysML diagrams from text based on deep learning"
 collection: publications
 permalink: /publication/GST
-excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024
 venue: 'ASME 2024 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference(IDETC-CIE)'
-paperurl: [pdf](http://academicpages.github.io/files/GST.pdf)
+paperurl: http://academicpages.github.io/files/GST.pdf
 citation: 'Haomin Guo, Qibo Peng, Yusheng Liu'  # Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
