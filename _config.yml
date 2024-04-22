@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "guohaomin.png"
   name             : "Haomin Guo"
-  pronouns         : "he/his" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "postgraduate student, Zhejiang University"
   location         : "Hangzhou China"
   employer         : "Zhejiang University"
