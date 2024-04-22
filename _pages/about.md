@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year postgraduate in Computer Science and Technology in [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html) at Zhejiang University, supervised by [Prof.Yusheng LIU](http://www.cad.zju.edu.cn/home/ysliu/). I received my Bachelor's Degree at Tianjin University in 2022.
+I am a second-year postgraduate in Computer Science and Technology in [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html) at [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof.Yusheng LIU](http://www.cad.zju.edu.cn/home/ysliu/). I received my Bachelor's Degree at [Tianjin University](https://www.tju.edu.cn/english/index.htm) in 2022.
 
 I'm looking for summer research or anytime research intern in order to apply for a Ph.D. in Computer Science in the fall of 2025.
 
