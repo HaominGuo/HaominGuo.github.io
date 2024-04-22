@@ -10,4 +10,8 @@ citation: '<b>Haomin Guo</b>, Qibo Peng, Yusheng Liu'
 
 [[PDF]](../files/GST.pdf)
 
-Specifically, I built a framework, based on deep learning, to generate [Systems modeling language](https://en.wikipedia.org/wiki/Systems_modeling_language)(SysML) diagrams automatically from unstructured natural language text without any involvement of user in the progress, which is the first attempt to apply deep learning to SysML diagrams generation. Our method can achieve a high degree of automation and the result can be import to the mainstream modeling software, allowing for subsequent modifications and additional modeling tasks. 
+
+
+# Abstract
+
+One of the primary objectives in MBSE is to transform ambiguous and inconsistent natural language into coherent and concise SysML models. By automating this process, individuals can significantly benefit from reduced manual effort. However, recent research has encountered various challenges, including limited input, reliance on user involvement, impractical application of results, and poor generalization of methods. In this study, we introduce a novel application of deep learning to generate SysML diagrams and present a framework GST. GST uses deep learning techniques to extract SysML diagram fragments from the text that has been split into sentences, and integrates them to form a SysML model. We have constructed a labeled dataset and implemented an instance of GST to confirm its feasibility. The experimental results demonstrate that GST is capable of automatically converting unstructured natural language inputs into SysML models. The entire generation process does not necessitate user involvement, and the resulting outputs in XMI format can be directly imported into modeling software, allowing for subsequent modifications and additional modeling tasks. The implementation code for GST instance and the labeled dataset is available at GST-example-code.  
