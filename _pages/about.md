@@ -13,9 +13,9 @@ I'm looking for summer research or anytime research intern in order to apply for
 
 Research
 ======
-My recent research is about Model-Based Systems Engineering ([MBSE](https://en.wikipedia.org/wiki/Model-based_systems_engineering)) which is an early phase of Computer Aided Design(CAD), using Artificial Intelligence, called AI4SE. 
+My recent research is about Model-Based Systems Engineering ([MBSE](https://en.wikipedia.org/wiki/Model-based_systems_engineering)), which is an early phase of Computer Aided Design(CAD), using Artificial Intelligence, called AI4SE. 
 
-My research interests are design automation, generative design and automatic generation of 3D models with AI. And I have learned related courses and required relevant skills. 
+My research interests are Computer Graphics and Computer Vision, especially 3D generative models. And I have learned related courses and required relevant skills. 
 
 I have enough time to continuously and fully engage in research that interests me. I would like to collaborate with you if you have any intriguing ideas. Let's create and do something interesting.
 
